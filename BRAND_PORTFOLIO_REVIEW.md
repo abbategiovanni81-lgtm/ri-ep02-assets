@@ -1,175 +1,186 @@
 # Brand Portfolio Review — July 2026
 
 **Prepared:** 27 July 2026
-**Scope:** All active ventures, brands and product lines visible across Drive, Gmail, the KAIC CRM and connected tooling.
-**Posture:** Ruthless. Keep / fix / automate / kill.
+**Scope:** 18 units — 15 brands, 3 additional content channels, plus the tool stack assessed as an asset in its own right.
+**Structure:** Organised by the divisions in the KAIC Board Report (Atlas, Raven, Muse, Sterling, Forge, Scout).
+**Posture:** Ruthless. Keep / test / automate / kill.
 
 ---
 
-## 1. The one-paragraph verdict
+## 1. The verdict in one paragraph
 
-There are **ten concurrent ventures** in this portfolio. **One of them makes money.** It is the one that gets the least attention, has no AI stack behind it, no automation, no strategy document, and no brand work — the 1:12 scale miniatures business running on Vinted and Etsy. Every other venture is pre-revenue, and the AI subscriptions bought to serve those pre-revenue ventures now plausibly **cost more per month than the profitable business nets**. The portfolio is cash-negative, and the profitable unit is subsidising nine unprofitable ones.
+Eighteen units. **One earns money.** Your own board report already said it in April — *"active revenue across the company is confirmed £0"* — and three months later the only thing that has changed is that the miniatures business is now demonstrably selling. Everything else is still £0. Meanwhile the tool stack costs **£250–400/month**, which means the portfolio is **net cash-negative and the one profitable unit is subsidising seventeen others.**
 
-The deeper problem is not any single venture. It is a **completion problem**. On 22–25 July the KAIC outreach pipeline reached its moment of truth — 45 emails delivered, follow-ups scheduled. On 26 July, instead of working those follow-ups, **two brand-new content brands were started from scratch.** That pattern is the thing to fix. Everything below is downstream of it.
-
----
-
-## 2. What the evidence actually shows
-
-### Revenue — verified
-
-| Source | Evidence | Est. run rate |
-|---|---|---|
-| **Vinted — `margaretstinyscenes`** | 7 completed sales 22–27 Jul: £3.00, £14.00, £45.42, £6.00, £35.19, £10.00, £8.55 = **£122.16 in ~5.5 days** | **~£650/mo gross** |
-| **Etsy — `HandmadeTinyliving`** | Live shop, weekly performance emails, £9.04 seller fees paid 2 Jul | Active, undisclosed |
-| Everything else | — | **£0** |
-
-Net margin on the miniatures is materially below gross: in the same 6-day window there were **~£56 of stock purchases** (£12.96 bed/wardrobe set, plus accepted buy-offers at £7.20, £9.60, £9.60, £10.40, £4.00, £2.50). This is a buy–restore–resell and handmade hybrid. Call it **~£350–400/mo net**. That is the entire realised income of the portfolio.
-
-Demand signal is genuinely healthy, and that matters more than the number: constant favourites, inbound offers, buyer questions ("What size is the typewriter please?"), repeat buyers, and bundles selling at £35–45. This business has **customers who come looking**. Nothing else in the portfolio does.
-
-### Cost — verified receipts, last 30 days
-
-Replit Core **$122.56** (15 Jul — and 100% of credits exhausted by 26 Jul), ElevenLabs, HeyGen, Firecrawl, Skywork AI, Pixelcut, seats.aero, Zeely Growth (activated 25 Jul), Descript, Canva, Claude Max, Vercel, one.com, vidIQ, Etsy fees.
-
-**Conservative estimate: £250–400/month.**
-
-> **The headline finding:** roughly £300/month of AI tooling is pointed at ventures earning £0, while the venture earning £650/month is run entirely by hand — manual listings, manual photos, manual descriptions, manual offer haggling.
-
-### Zero-signal check
-
-Across 90 days of email there is **no AdSense notification, no YouTube monetisation email, no Whop payout, no client invoice, and no inbound Stripe payment.** For a portfolio containing a 13-episode video series, a clipping operation and a web agency, that absence is the finding.
+The structural problem is not any single brand. It is that a one-person operation is running an eight-division org chart. Divisions, board reports and codenames create the *appearance* of a company while the actual constraint — one person's attention — is spread across 18 fronts. On 26 July, with 45 KAIC follow-ups due, two new brands were founded. That is the pattern to break.
 
 ---
 
-## 3. Venture-by-venture verdict
+## 2. The evidence base
 
-### 🟢 KEEP AND DOUBLE DOWN — 1 venture
-
-#### Miniatures — Vinted `margaretstinyscenes` + Etsy `HandmadeTinyliving`
-**Verdict: This is the business. Treat it as such.**
-
-It is the only venture with proven demand, repeat buyers, and cash in the bank. It has been treated as a side hobby while ten AI ventures got the attention. Invert that immediately.
-
-The unfair advantage nobody has noticed: **the entire AI stack already being paid for is perfectly suited to this business and has never been pointed at it.** Pixelcut (already subscribed) cleans product photos. Claude writes listing copy and SEO titles at volume. Canva builds the brand identity Etsy rewards. This is where the tooling finally earns its keep.
-
-**Actions:**
-- Raise prices. Bundles selling instantly at £35–45 with buyers making unsolicited offers is a signal that pricing is under market.
-- Systematise listings: photo → cleanup → AI-drafted title/description/tags → schedule. Target 10–15 new listings/week.
-- Push Etsy hard. Vinted is a marketplace with no brand equity and no email list; Etsy compounds — reviews, SEO, repeat custom.
-- Capture the buyer list. This is the only asset in the portfolio that can be marketed to twice.
-
-**Note:** if this business belongs to a partner or family member rather than being yours to direct, the strategic point still stands — it is the household's proven earner, and the correct move is to support it with the tooling and time currently being burned elsewhere. Confirm ownership before acting on pricing.
+| | Finding |
+|---|---|
+| **Only verified revenue** | Vinted `margaretstinyscenes`: 7 sales, £122.16 in 5.5 days (22–27 Jul) → **~£650/mo gross, ~£350–400 net** after ~£56/week stock buying |
+| **Company-wide revenue, April board report** | £0 confirmed, all 8 divisions |
+| **Gumroad Digital Vault** | 9 products, 3 live, **0 sales** |
+| **Etsy** | 8 visits in a week (5 paid, 3 organic) |
+| **Atlas apps** | 13–14 live, no analytics configured, £0 |
+| **Raven content** | All produced content **REJECTED**, KEI credits depleted |
+| **Sterling content** | MTI + Belfast Crystal batches **REJECTED twice** |
+| **Muse** | No API access, revenue unknown, unverifiable |
+| **Tool spend** | £250–400/mo (Replit $122.56 alone, credits already exhausted) |
+| **90 days of email** | No AdSense, no YouTube payout, no Whop payout, no client invoice, no inbound Stripe |
 
 ---
 
-### 🟡 FIX OR KILL — 30-day ultimatum — 1 venture
+## 3. Unit-by-unit verdict
 
-#### KAIC (`kaic-ni.co.uk`) — AI web agency for NI trades
-**Verdict: The asset is real. The strategy is broken. One focused 30-day test, then decide.**
+### 🟢 KEEP — 2 units
 
-**What's genuinely good:** working n8n → one.com → inbox delivery pipeline, 88 researched prospects, ~80 built demo sites, per-prospect demo codes, sector-specific angles ("2am test" for plumbers, "cowboy-fear" for tree surgeons, "one-job-pays" for driveways). This is real infrastructure and the angles are sharp. Most people never get this far.
+#### 1. Miniatures — Vinted `margaretstinyscenes` / Etsy `HandmadeTinyliving` / TinyTreasures *(Sterling)*
+**This is the business. Everything else is a hypothesis.**
 
-**What's broken:**
+Real customers, inbound offers, buyer questions, repeat purchases, bundles clearing at £35–45. It is the only unit in the portfolio where demand arrives without being chased. It has no brand work, no automation, no strategy doc and no AI support — and it is the only thing that works. That contrast is the whole review.
 
-1. **Spread across 12 verticals with zero depth.** Takeaways, bouncy castles, cleaners, driveways, electricians, fencing, painters, plumbers, removals, roofers, scaffolding, tree surgeons. Twelve verticals, 45 emails, **zero replies, zero deals** — the deal-value column is entirely empty. Forty-five emails across twelve markets is not a test of twelve markets; it's noise in all twelve.
-2. **~35 demo sites built for prospects who cannot be contacted.** All 4 electricians: no email. All 4 fencing prospects: *"no NI web presence found"* — sites built for businesses that don't appear to exist in the region. Seven of nine takeaways unreachable. That's weeks of build time spent on prospects with no contact path.
-3. **The best vertical was never emailed.** Roofers has **4 "ready" contacts sitting untouched**, plus cleaners (3 ready) and takeaways (2 ready) — **9 ready-to-send prospects idle** while two new content brands were started on 26 July. Roofing is high-ticket, distress-driven, and storm season starts in October.
-4. **Wrong price, wrong shape.** £499 one-off means ~20 sales/year for £10k, and every month starts at zero. There is no recurring revenue and therefore nothing compounds.
-5. **Still self-testing on 25 July.** Two deliverability self-tests (23rd and 25th) means confidence in the pipeline was still low a week ago. Deliverability may itself be the reason for zero replies — 45 cold emails from a new domain on shared SMTP very plausibly landed in spam. **Verify this before concluding the offer failed.**
+- Raise prices 15–20%. Instant clears plus unsolicited offers means you're under market.
+- Systematise listings: photo → Pixelcut cleanup → AI-drafted title/tags/description → schedule. 10–15/week.
+- Push Etsy over Vinted. Etsy compounds (SEO, reviews, repeat); Vinted builds no equity and gives you no list.
+- Capture the buyer list. It's the only marketable asset you own.
+- *If this is a partner's business, the call stands — it's the household's proven earner. Confirm before repricing.*
 
-**The 30-day test — do exactly this and nothing else:**
-- **Pick ONE vertical: plumbers.** Highest urgency (emergency call-outs), year-round demand ramping into winter, the "2am test" angle is the strongest in the CRM, and 6 are already at stage 2 with follow-ups due 31 July. Roofers is the second wave in October for storm season.
-- **Kill bouncy castles now.** Nine prospects at stage 2, no replies, and the season ends in September. You cannot build a business on a 12-week window.
-- **First: verify deliverability.** Check SPF/DKIM/DMARC on kaic-ni.co.uk and test inbox placement to Gmail/Outlook/Hotmail. If the emails are in spam, nothing else is diagnostic.
-- **Change the offer to recurring:** £299 build + £39/mo care plan, or £99/mo all-in. Twenty clients on £39/mo is £780/mo that arrives whether or not you sell anything that month. That is a business; £499 one-offs are freelancing.
-- **Pick up the phone.** Roughly half the CRM has phone numbers and no email. In NI trades, cold email from an unknown domain is the weakest possible channel. Ten calls will teach you more in a day than 45 emails taught you in a week.
+#### 2. The Tool Stack — **treated as its own asset, not an overhead**
+You own a genuinely capable production stack: Claude Max, Canva, Pixelcut, ElevenLabs, HeyGen, Descript, Replit, Vercel, n8n, Firecrawl, Shopify, SketchUp, plus connectors. Eighty working demo sites prove it can ship real output.
 
-**Hard gate — 31 August:** if this has not produced **one paying client**, shut KAIC down entirely, cancel the domain and Vercel projects, and redeploy the time to the miniatures business. No extension, no pivot to vertical thirteen.
+**The problem is aim, not capability.** Two content batches (MTI, Belfast Crystal) were rejected for the same reason: *AI-generated random images instead of the base product photos.* That wasn't bad luck — it was asking the stack to do the one thing it does least reliably.
 
----
+**Honest capability tiers — build only in the green:**
 
-### 🔵 AUTOMATE AND FORGET — 1 venture
+| Verdict | Capability |
+|---|---|
+| 🟢 **Reliably doable today** | Listing copy & SEO at volume · product photo cleanup · lead research & scoring · outreach sequencing (n8n) · scheduling/publishing · spreadsheet ops · static site generation |
+| 🟡 **Doable with a human pass** | Thumbnails · short scripts · voiceover · social copy |
+| 🔴 **Not reliably doable — stop attempting** | Photoreal imagery of *real* products · consistent AI-influencer identity across posts · long-form video at scale inside budget (KEI depleted) |
 
-#### RI — conspiracy/mystery video series
-**Verdict: Stop producing. Ship what exists. Never open the editor again.**
-
-There are 13+ finished episode scripts (S1E1–3, S2E1–3, Apollo 20, Kola Borehole, Vela Incident, Numbers Stations, Anunnaki, Philadelphia Experiment, Underground Bases, Dyatlov, Dead Internet, Simulation, Time Travel), finished thumbnails, voiceovers, and two 3GB long-form "FallAsleep" videos. That is a serious library.
-
-There is also **no evidence any of it is earning, and no monetisation email in 90 days.** Enormous production, no distribution feedback loop. The failure mode here is not quality — it's that effort kept flowing into *making* rather than *publishing and measuring*.
-
-**Actions:**
-- Batch-publish the entire existing library on a fixed schedule. Two per week until exhausted.
-- **Zero new production spend.** No new episodes, no new HeyGen renders, no new series.
-- Let 90 days of real data decide. If a channel finds an audience, revisit with evidence. If not, it's a closed chapter and the scripts remain a sellable asset.
-- The sleep/long-form content is the more commercially proven format of the two — publish that first.
+Every £0 unit in this portfolio lives in the red tier. The one earning unit needs only the green tier — and has never been given it.
 
 ---
 
-### 🔴 KILL NOW — 6 ventures
+### 🟡 TEST 30 DAYS — 1 unit
 
-These are all pre-revenue, all recently started, and all competing for the attention that KAIC and the miniatures business need.
+#### 3. KAIC *(Forge)* — NI trades web agency
+The infrastructure is real: working n8n → one.com → inbox pipeline, 88 researched prospects, ~80 demo sites, sharp per-sector angles. Most people never build this.
 
-| Venture | Started | Verdict |
-|---|---|---|
-| **CFC — Character Fighting Championship** | 26 Jul | Kill. Started the same day KAIC follow-ups came due. Archive the assets. |
-| **Riverview Airport / aviation-disaster series** | 26 Jul | Kill. Same day, same pattern. A third content brand while the first is unpublished. |
-| **Awayday Trips** (`awaydaytrips.com`) | Live on Replit | Kill or park. Competing in travel against funded incumbents with no distribution. |
-| **Points & Vouchers / PointsBot** (`pointsandvouchers.com`) | Republished 10× in July | Kill. Ten deploys in a month, no users, no revenue. Deploying is not progress. |
-| **Whop clipping / theme pages** | Active | Kill. CPM $2.50–3.00 work is time-for-pennies and directly cannibalises focus. |
-| **"Dex" AI email agent** | Ongoing | Kill. Tooling for tooling's sake. |
+**What's broken:** 13 verticals, 45 emails, **0 replies, deal-value column empty**. ~35 demos built for prospects with no contactable email (all 4 electricians; all 4 fencing prospects flagged *"no NI web presence found"*). **9 ready-to-send prospects sit untouched** — including 4 roofers, the highest-ticket vertical. And you were still running deliverability self-tests on 25 July, which means **45 cold emails from a new domain may simply be in spam.**
 
-**Also stop: browsing Flippa.** There are regular listing digests and "just sold for $70K" emails in the inbox. Shopping for businesses to buy while ten of your own sit unfinished is the purest form of the avoidance pattern this review is about. Unsubscribe.
+**The test — this only:**
+- **One vertical: plumbers.** Highest urgency, winter ramp, strongest angle ("2am test"), 6 already at stage 2 due 31 July. Roofers is wave two in October for storm season.
+- **Kill bouncy castles now** — 9 at stage 2, no replies, season ends September.
+- **Verify deliverability first.** SPF/DKIM/DMARC + inbox placement. Highest-information action available; without it you can't tell a bad offer from a spam folder.
+- **Reprice to recurring:** £299 + £39/mo, or £99/mo all-in. £499 one-offs are freelancing — every month restarts at zero.
+- **Phone, not email.** Half the CRM has phone numbers and no email. Ten calls teaches more in a day than 45 emails taught in a week.
+
+**Gate — 31 August: one paying client, or KAIC closes.** No thirteenth vertical.
+
+---
+
+### 🔵 AUTOMATE AND FORGET — 1 unit
+
+#### 4. RI — back catalogue only *(Raven)*
+13+ finished episode scripts, thumbnails, voiceovers, two 3GB FallAsleep long-forms. Substantial library, **zero monetisation signal in 90 days.**
+
+Schedule the entire existing library — two per week until exhausted. **Zero new production spend.** Let 90 days of real data decide. If an audience appears, revisit with evidence; if not, the scripts remain a sellable asset. Publish the sleep/long-form content first — it's the more commercially proven format.
+
+---
+
+### 🔴 KILL — 14 units
+
+**Raven — content channels (6).** All £0, all unpublished or rejected, KEI budget depleted.
+
+| Unit | Call |
+|---|---|
+| **Downfall** | Kill. EP01 + Shorts produced, rejected, unpublished. |
+| **TimeTraveller** | Kill. EP1 + turnstile test, never shipped. |
+| **STICKMANITY** | Kill. |
+| **CFC — Character Fighting Championship** | Kill. Founded 26 July, the day KAIC follow-ups came due. |
+| **OTHXW** | Kill. EP01–05 exist Remotion-only — no files, no Drive links, nothing to salvage. |
+| **ReapersGuide** | Kill. |
+
+Six channels, zero published traction, one person. Even if every one were good, there is no world in which they get distributed.
+
+**Muse — AI influencers (2).**
+
+| Unit | Call |
+|---|---|
+| **Jeanie (DFans)** | Kill. No API access, revenue unverifiable, platform risk, and the highest ongoing time cost of anything here. |
+| **Megan** | Kill. 2 staged assets, 35 carried-forward items, 0 posted. |
+
+This sits squarely in the red capability tier — consistent identity across posts is what the stack can't hold. It is the most effort per pound in the portfolio.
+
+**Sterling — non-earning e-commerce (3).**
+
+| Unit | Call |
+|---|---|
+| **MTI** | Kill. Content rejected twice for the same fault. |
+| **Belfast Crystal** | Kill. Batch rejected, £0. |
+| **Gumroad Digital Vault** | Kill or park. 9 products, 3 live, **0 sales.** Leave the 3 live listings up as passive; spend nothing further. |
+
+**Atlas — the apps (13 of 14).**
+PointsBot · Awayday Trips · StyleLens · GlowLens · ColourLens · MealLens · HomeTools · SetListTravel · LocaleLuxury · CVWriter · SmartBudget · SquadGetaways (DNS down) · SCF.
+
+**Kill all of them.** Fourteen apps, no analytics on any, £0 across the board, no distribution plan for a single one. Shipping an app is a weekend; getting users is the actual business, and none has had a day of it. Cancel Replit, let the domains lapse, archive the repos.
+
+**One exception worth noting, not reviving:** PointsBot is the only unit with genuine third-party demand evidence — real Reddit threads complaining about point.me, and you already pay for the competitor (seats.aero). Park that lead research. **If KAIC fails the 31 August gate, PointsBot is the next bet — not a parallel one.**
+
+**Also stop:** browsing Flippa. Shopping for businesses to buy while 17 of your own sit unfinished is the same avoidance in a different tab.
 
 ---
 
 ## 4. Cut the burn this week
 
-**Cancel immediately:**
-
-| Tool | Cost | Why |
+| Cancel | Cost | Why |
 |---|---|---|
-| **Replit Core** | ~$122/mo | Two dead apps (Awayday, PointsBot). Credits already exhausted — next bill is higher. Biggest single line item, zero return. |
+| **Replit Core** | ~$122/mo | 14 dead apps. Credits already exhausted — next bill is higher. Biggest line item, zero return. |
 | **Zeely Growth** | New 25 Jul | Bought two days ago, unused. Cancel inside the refund window. |
-| **HeyGen** | Monthly | Dozens of renders, no published channel. Revisit only if RI finds an audience. |
-| **Firecrawl** | Monthly | Scraping is done; the CRM is built. |
-| **Skywork AI** | Monthly | Redundant with existing stack. |
-| **vidIQ** | Monthly | Optimisation tooling for a channel that isn't publishing. |
-| **seats.aero** | Monthly | Personal travel, not a business cost. |
+| **HeyGen** | Monthly | Dozens of renders, nothing published. |
+| **Firecrawl** | Monthly | Scraping done, CRM built. |
+| **Skywork AI** | Monthly | Redundant. |
+| **vidIQ** | Monthly | Optimisation for channels that don't publish. |
+| **seats.aero** | Monthly | Personal travel — and PointsBot is parked. |
 
-**Keep:** Claude Max, Canva, one.com (KAIC's 30-day test), Etsy fees, Vercel free tier, ElevenLabs *only* if RI actually publishes.
+**Keep:** Claude Max, Canva, Pixelcut, n8n, one.com (30-day KAIC test), Vercel free tier, Etsy fees. ElevenLabs only while RI's back catalogue is publishing.
 
-**Estimated saving: £200–250/month** — which roughly doubles the household's net position on its own, before a single new sale.
+**Saving: £200–250/month** — roughly doubling the household net position before a single new sale.
 
 ---
 
-## 5. What to do this week
+## 5. This week
 
-**Today (27 July) — follow-ups are already due:**
-1. Send the KAIC follow-ups dated 27 Jul (driveways, 6 prospects) and 28 Jul (scaffolding, 5 prospects) that are sitting in the CRM right now.
+**Today (27 July):**
+1. Send the KAIC follow-ups already due — driveways (6, due 27th), scaffolding (5, due 28th).
 2. Cancel Replit and Zeely.
 
 **This week:**
-3. Verify KAIC email deliverability — SPF/DKIM/DMARC and inbox placement testing. This is the single highest-information action available.
-4. Rewrite the KAIC offer as recurring (£299 + £39/mo).
-5. Call 10 plumbers. Not email — call.
-6. List 15 new miniatures items using Pixelcut + Claude for photos and copy.
-7. Archive CFC, Riverview, Awayday, PointsBot. Move the assets to cold storage and close the tabs.
+3. Verify KAIC deliverability — SPF/DKIM/DMARC + inbox placement.
+4. Reprice KAIC to recurring.
+5. Call 10 plumbers.
+6. List 15 miniatures items using Pixelcut + Claude.
+7. Archive the 6 dead channels, 2 influencers, 3 e-commerce brands and 13 apps. One afternoon, then closed.
 
 **This month:**
-8. Schedule the entire RI back catalogue to publish. Then stop.
-9. Raise miniatures prices 15–20% and measure conversion.
+8. Schedule RI's full back catalogue. Then stop.
+9. Raise miniatures prices and measure.
 
 ---
 
 ## 6. The thing behind the thing
 
-Every venture in this portfolio is well-executed at the *start*. The KAIC angles are genuinely clever. The RI scripts are substantial. The demo sites work. The failure is never craft — it is that the moment a venture reaches the uncomfortable part (following up, being ignored, asking for money), a new venture begins. Starting feels like progress and produces no risk of rejection. The evidence is precise: **on the exact day 45 emails were due for follow-up, two new brands were founded.**
+The craft is never the problem. The KAIC angles are sharp, the RI scripts substantial, the demo sites work, the board reporting is better than most real companies produce. The failure is that **the org chart is aspirational and the attention is finite.** Eight divisions, eighteen units, one person. Every unit gets 1/18th of a person, which is indistinguishable from zero — so nothing ever reaches the uncomfortable part where you follow up, get ignored, and ask for money again.
 
-Discipline required for the next 30 days: **no new ventures, no new brands, no new domains, no new subscriptions.** Two things get worked — the miniatures business and one vertical of KAIC. Everything else is archived.
+Starting a nineteenth unit feels like progress and carries no risk of rejection. That is why there are eighteen.
 
-**One earner to grow. One bet to test. Everything else dark.**
+**Next 30 days: no new units, no new brands, no new domains, no new subscriptions.** Two things get worked — the miniatures business and plumbers. The stack gets pointed at the green tier only. Everything else goes dark.
+
+**One earner to grow. One bet to test. One stack, aimed properly. Sixteen units off.**
 
 ---
 
-*Basis of review: KAIC Outreach CRM (88 prospects), Google Drive asset inventory, 120 days of email traffic including all payment receipts and marketplace notifications. Revenue figures are derived from marketplace sale notifications, not from bank or platform statements; treat them as directionally accurate rather than audited. No YouTube or Whop analytics access was available — conclusions on those are inferred from the complete absence of payout and monetisation notifications over 90 days.*
+*Basis: KAIC Board Report (week ending 28 Apr 2026), KAIC Outreach CRM (88 prospects), Vercel project inventory (26 projects), Google Drive asset tree, and 120 days of email including all payment receipts and marketplace notifications. Revenue figures derive from marketplace notifications rather than platform or bank statements — directionally accurate, not audited. No YouTube, AdSense, Metricool, Etsy or Whop analytics access was available; those conclusions rest on the board report's own £0 and the complete absence of payout notifications over 90 days. The three additional channels (OTHXW, ReapersGuide, FallAsleep) are taken from the board report's Raven division — confirm the list is right.*
