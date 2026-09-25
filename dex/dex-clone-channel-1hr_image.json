@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "channel": "Dex",
+    "episode": "I Tried 'Clone ANY YouTube Channel With Claude in 1 Hour' - Live, Timer Running",
+    "status": "DRAFT v1 - Gio to review. Every [GIO: ...] slot must be filled with the REAL result from the actual test. Do not publish with placeholders or invented numbers.",
+    "source_note": "Response to the claim in the title of youtu.be/SqeUghsq9R4 ('Clone ANY YouTube Channel With Claude AI in 1 Hour (No Skills Needed)'). The source video itself was NOT watched (YouTube blocked in the build environment) - this script only tests the title's claim and does not describe or quote the source video's method.",
+    "voice": "Gio supplies (Dex voice locked)",
+    "style": "Stylized 3D Pixar-style render per sheets.json (iCloudDrive/Dex new channel/prompts/sheets.json) - dex, red_hoodie, podcast_studio.",
+    "total_beats": 11,
+    "approx_runtime": "6:10",
+    "aspect_ratio": "16:9",
+    "video": false,
+    "format": "dex-episode"
+  },
+  "beats": [
+    {
+      "beat": 1,
+      "tc": "0:00",
+      "dur": "40s",
+      "shot": "dex-full",
+      "vo": "Clone any YouTube channel with Claude. In one hour. No skills needed. You've seen that title. I've seen that title. I've probably seen it forty times this month. And every time, same question: yeah... but did it actually work? Did the cloned channel post anything? Did anyone watch it? So today I'm not explaining the method. I'm running it. One channel, one hour, timer on screen the whole way. And when the hour's up, you'll see exactly what I've got - even if what I've got is a mess.",
+      "prompt": "character_sheet: dex, outfit: red_hoodie, location_sheet: podcast_studio. Shot: talking_head. Dex to camera. On 'timer on screen' a 60:00 countdown timer graphic appears top-right and stays for the rest of the episode.",
+      "screen_rec": "On 'I've seen that title': 2s wall of generic 'clone any channel' style thumbnails (make our own mock thumbnails - do not use real creators' thumbnails)."
+    },
+    {
+      "beat": 2,
+      "tc": "0:40",
+      "dur": "30s",
+      "shot": "dex-full",
+      "vo": "Quick ground rule before the clock starts, because 'clone' is doing a lot of heavy lifting in that title. I'm not copying anyone's videos. Not their scripts, not their voice, not their thumbnails. That's not a channel, that's a copyright strike waiting to happen. What I'm cloning is the structure - the format, the pacing, the kind of hook, the length, the upload rhythm. The recipe, not the meal. If Claude can pull that out and I can build my own original version on top of it inside an hour - that's a win.",
+      "prompt": "character_sheet: dex, outfit: red_hoodie, location_sheet: podcast_studio. Shot: talking_head. Honest, slightly serious. On 'The recipe, not the meal' small text card: STRUCTURE, NOT CONTENT.",
+      "screen_rec": ""
+    },
+    {
+      "beat": 3,
+      "tc": "1:10",
+      "dur": "30s",
+      "shot": "screen-cap+overlay",
+      "vo": "So here's the channel we're cloning. [GIO: name the niche / channel type you picked and one line on why - e.g. what made you pick it]. I picked it because [GIO: real reason]. Timer starts... now.",
+      "prompt": "SCREEN-REC: the reference channel's public channel page / video grid (blur channel name and faces if Gio decides not to name them). Countdown timer starts ticking on 'now'. Dex overlay bottom-right.",
+      "screen_rec": "Reference channel page scroll. Hard cut to timer start."
+    },
+    {
+      "beat": 4,
+      "tc": "1:40",
+      "dur": "40s",
+      "shot": "screen-cap+overlay",
+      "vo": "Step one - the breakdown. I give Claude the channel's top videos - titles, lengths, and the transcripts I can get - and ask it one thing: what is the formula here? Not what do they say. How do they say it. How long before the first hook lands. How many beats per video. What the thumbnails have in common. What the titles promise. And what came back was... [GIO: read out the real formula Claude returned - 3-4 bullet points max]. Honestly? [GIO: your real reaction - did it nail it or miss something obvious?]",
+      "prompt": "SCREEN-REC: Claude window - paste of titles/lengths/transcripts, then Claude's breakdown response scrolling. Highlight the formula bullets as Dex reads them. Timer visible. Dex overlay bottom-right.",
+      "screen_rec": "Timer at [GIO: real time elapsed]."
+    },
+    {
+      "beat": 5,
+      "tc": "2:20",
+      "dur": "30s",
+      "shot": "screen-cap+overlay",
+      "vo": "Step two - turn that formula into something I can actually reuse. I don't want a nice summary I'll never look at again. I want it baked into the machine. So Claude turns the breakdown into a style guide for my script-writer skill - the same one that runs my stickman channel. Voiceover line, image prompt, video prompt, beat by beat, all locked to the new format. Build it once, use it every episode.",
+      "prompt": "SCREEN-REC: Claude writing the new style guide / skill file; then the Faceless Factory dashboard with a NEW channel tab being added next to the stickman tab. Timer visible. Dex overlay bottom-right.",
+      "screen_rec": "Timer at [GIO: real time elapsed]."
+    },
+    {
+      "beat": 6,
+      "tc": "2:50",
+      "dur": "35s",
+      "shot": "screen-cap+overlay",
+      "vo": "Step three - episode one. Original topic, cloned structure. I pick [GIO: the real episode topic], hit generate, and the script-writer spits out every beat at once. Then the same order I always use - voiceover first. Before a single image exists. Because the audio sets the timing for everything else. You time the visuals to the voice, you never guess it.",
+      "prompt": "SCREEN-REC: dashboard beats populating with VO + image prompt + video prompt; then VO generating with a waveform and the beat timings snapping to the real audio. Timer visible. Dex overlay bottom-right.",
+      "screen_rec": "Timer at [GIO: real time elapsed]."
+    },
+    {
+      "beat": 7,
+      "tc": "3:25",
+      "dur": "30s",
+      "shot": "screen-cap+overlay",
+      "vo": "Step four - visuals. Copy all in one, into Google Flow, agent mode, paste, go. Then the one real decision in the whole process - which shots are heroes that actually need motion, and which just get a Ken Burns push. Because in a one-hour challenge, you absolutely cannot afford to animate everything. You animate what matters and you move the rest.",
+      "prompt": "SCREEN-REC: 'Copy all in one' click; Google Flow agent mode paste; grid of clips generating (speed-ramped); then HERO marking on the dashboard and one Ken Burns push on a still. Timer visible. Dex overlay bottom-right.",
+      "screen_rec": "Timer at [GIO: real time elapsed]."
+    },
+    {
+      "beat": 8,
+      "tc": "3:55",
+      "dur": "25s",
+      "shot": "dex-full",
+      "vo": "And this is the bit the one-hour videos tend to skip. [GIO: what actually went wrong or slowed you down - a tool that broke, clips that came back rough, a step that took way longer than it should. If nothing went wrong, say that plainly instead.] That cost me [GIO: real minutes].",
+      "prompt": "character_sheet: dex, outfit: red_hoodie, location_sheet: podcast_studio. Shot: talking_head. Direct to camera, no B-roll. Timer still visible top-right.",
+      "screen_rec": "Optional 2s cutaway to the real failure on screen if captured."
+    },
+    {
+      "beat": 9,
+      "tc": "4:20",
+      "dur": "35s",
+      "shot": "screen-cap+overlay",
+      "vo": "Step five - Claude stitches it. Heroes, Ken Burns stills, voiceover, into one cut. And then I watch it. Me. Top to bottom. Timer stops at [GIO: real final time]. So - one hour? [GIO: honest verdict - beat it, missed it, by how much]. Here's what came out.",
+      "prompt": "SCREEN-REC: Claude assembling the final cut; cut to FULL Dex watching the cut; timer freezes on the real final time with a stamp: UNDER / OVER. Then play 8-10s of the finished episode full-screen.",
+      "screen_rec": "Real final cut - 8-10s excerpt."
+    },
+    {
+      "beat": 10,
+      "tc": "4:55",
+      "dur": "40s",
+      "shot": "dex-full",
+      "vo": "So is 'clone any channel in one hour, no skills needed' true? Here's my honest take. [GIO: your real verdict, in your words.] And the 'no skills needed' part - I'd push back on that a bit. You don't need to code. I didn't write a line of this, Claude Code built the whole system. But you do need taste. You need to know what a good hook sounds like, which shots deserve motion, and when a clip is just not good enough to post. The AI does the hours. It doesn't do the judgement. That part's still you.",
+      "prompt": "character_sheet: dex, outfit: red_hoodie, location_sheet: podcast_studio. Shot: talking_head. Honest to camera.",
+      "screen_rec": ""
+    },
+    {
+      "beat": 11,
+      "tc": "5:35",
+      "dur": "35s",
+      "shot": "dex-full",
+      "vo": "And one hour gets you a video. It doesn't get you a channel. A channel is whether anyone watches it. So this one goes on the scoreboard with the others. Every week, you'll see its real numbers - views, subs, watch time - next to the stickman channel and the rest. If the clone beats the channels I built from scratch, you'll see it. If it dies on the vine, you'll see that too. Drop the channel you'd want cloned next in the comments - if enough people pick the same one, we test it. Subscribe, and I'll see you next week with the numbers.",
+      "prompt": "character_sheet: dex, outfit: red_hoodie, location_sheet: podcast_studio. Shot: talking_head. On 'goes on the scoreboard' 2s flash of the CHANNEL SCOREBOARD graphic (Dex Ai head shots/Video_/5952B5BC-...PNG) with the new channel added as a new row. End on subscribe / end-screen card.",
+      "screen_rec": "Scoreboard flash with new row."
+    }
+  ]
+}
